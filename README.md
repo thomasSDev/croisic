@@ -1,0 +1,2 @@
+# croisic
+Croisic project
